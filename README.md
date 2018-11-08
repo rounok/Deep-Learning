@@ -1,4 +1,4 @@
-# Deep Learning Specialization on Coursera
+# Deep Learning courses
 ### [Master Deep Learning, and Break into AI](https://www.coursera.org/specializations/deep-learning)
 
 This is my personal projects for the course. The course covers deep learning from begginer level to advanced. Highly recommend anyone wanting to break into AI. 
@@ -47,5 +47,5 @@ Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOL
  3. Week3 - [Sequence models & Attention mechanism](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Sequence%20Models/Week3)
  
 <p align="center"> *************************************************************************************************************************************</p>
-<div align="center"><img src ="https://github.com/enggen/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week3/Trigger%20word%20detection/images/keep-calm-because-it-s-all-done.jpg"  width="1000" height="1100" /></div>
+<div align="center">LEARN AND SHARE</div>
 
